@@ -9,6 +9,8 @@ run [this script](./databaseDeploymentScript/deploy.bash) to load the test datas
 
 You will find sources and binaries in [./TP_JDBC](./TP_JDBC)
 
+Warning: Do not use this as a reference, a lot (if not all) of the code sucks despite efforts to clean it!
+
 __
 
 PDF's by nedseb:
@@ -17,4 +19,3 @@ PDF's by nedseb:
 
 [https://github.com/nedseb/TpJdbc](https://github.com/nedseb/TpJdbc)
 
-Warning: Do not use this as a reference, a lot (if not all) of the code sucks despite efforts to clean it!
